@@ -14,7 +14,6 @@ GitHub Branch: wysiwyg
 */
 
 
-
 class acf_field_limiter_plugin{
 	/*
 	*  Construct
