@@ -10,6 +10,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 GitHub Plugin URI: arioch1984/ACF-limiter-field
 GitHub Plugin URI: https://github.com/arioch1984/ACF-limiter-field/tree/wysiwyg
+GitHub Branch: wysiwyg
 */
 
 
